@@ -1,0 +1,5 @@
+JoDate/__pycache__/
+JoDate/migrations/
+Project/__pycache__/
+
+.DS_Store
