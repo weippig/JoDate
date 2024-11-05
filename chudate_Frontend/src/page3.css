@@ -1,0 +1,163 @@
+.header_wrap_leve1{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	border-bottom:solid;
+	padding-top:1vh;
+	padding-bottom:1vh;
+	border-width:2px;
+}
+
+.picture2{
+	width:50px;
+	height:50px;
+}
+
+.title_wrap{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	padding-left:40vw;
+	padding-right:40vw;
+}
+
+.title{
+	width:100px;
+	color:#F6D004;
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:30px;
+	display:flex;
+	flex-direction:column;
+	justify-content:center;	
+}
+
+.picture3{
+	width:50px;
+	height:50px;
+}
+
+.picture4{
+	border-radius:20px;
+	background-color:#D0D0D0;
+	margin-right:2vw;
+}
+
+.main_wrap_leve1{
+	height:80vh;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+}
+
+.main_wrap_leve2{
+	margin-top:8vh;
+	height:80vh;
+	display:flex;
+	flex-direction:column;
+	justify-content: flex-start;
+}
+
+.character{
+	font-family:"微軟正黑體";
+	
+	font-size:20px;
+	margin-top:2px;
+	margin-bottom:5px;
+}
+
+.main_wrap_leve3{
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	margin-bottom:8vh;
+}
+
+.main_wrap_leve4{
+	display:flex;
+	flex-direction:column;
+	justify-content: flex-start;
+}
+
+.main_wrap_leve5{
+	margin-top:4vh;
+	display:flex;
+	flex-direction:row;
+	justify-content: flex-start;
+}
+
+.main_wrap_leve6{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+}
+
+.block{
+	width:8vw;
+}
+
+.special_wrap{
+	display:flex;
+	flex-direction:row;
+	justify-content: flex-start;
+}
+
+.special_block_wrap{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+}
+
+.special_block{
+	height:0px;
+	width:300px;
+	border-style:solid;
+	border-width:1px;
+}
+
+.special_character{
+	color: #6C6C6C;
+	font-family:"微軟正黑體";
+	font-weight:bold;
+	font-size:35px;
+	margin-top:2px;
+	margin-bottom:5px;
+	margin-right:2vw;
+}
+
+.button_wrap{
+	display:flex;
+	flex-direction:column;
+	justify-content:center;
+	margin-left:2vw;
+}
+
+.button{
+	width:100px;
+    height:30px;
+    border-radius:20px;
+    outline-style: none ;
+    border: 1px solid #ccc;
+}
+
+.button:hover{
+	cursor:pointer;
+}
+
+.favorite_wrap{
+	margin-top:1vh;
+	display:flex;
+	flex-direction:row;
+	justify-content: flex-start;
+}
+
+.favorite{
+	border-radius:10px;
+	width:80px;
+	background-color:#66B3FF;
+	color:white;
+	display:flex;
+	flex-direction:row;
+	justify-content:center;
+	margin-left:1vw;
+}
